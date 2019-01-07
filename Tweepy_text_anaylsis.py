@@ -274,7 +274,7 @@ if __name__ == "__main__":
     # s1.search(50,"UMD")
     # s1.search_top(50,"UMD")
     # s1.language()
-    s1.plotting_function("Cardi B", 30)
+    s1.plotting_function("Cardi B", 250)
 
     # Enter the name of the csv file created in get_all_tweets function
     # most_used_words('joale_languages.csv')
